@@ -78,6 +78,7 @@ function App() {
           <a target="blank" href="https://github.com/kxtara">
             <i className="bi bi-github text-2xl hover:text-[#6091dc]"></i>
           </a>
+          <p>Digital Business Card - View Candidate Information</p>
         </footer>
       </div>
     </main>
